@@ -5,3 +5,4 @@ add for test one conflict!
 
 test --no-ff!
 
+fixed issue-101!
