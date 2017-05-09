@@ -5,3 +5,5 @@ add for test one conflict!
 
 test --no-ff!
 
+test stash!
+
